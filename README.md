@@ -1,1 +1,1 @@
-This is the first Dice contract uploaded in GitHub 
+This is the second Dice contract uploaded in GitHub 
