@@ -1,0 +1,1 @@
+This is the first Dice contract uploaded in GitHub 
