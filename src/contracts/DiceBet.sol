@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract Dice is ERC20, Ownable {
     // Constructor
     constructor() ERC20("Dice", "JDM") {
-        _mint(address(this), 100);        
+        _mint(address(this), 101);        
     }
 
     
