@@ -1,0 +1,8 @@
+{
+  "name": "Blockchain-DiceBet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Juaan-Dvid/Blockchain-DiceBet.git",
+  "author": "Juaan-Dvid <101295007+Juaan-Dvid@users.noreply.github.com>",
+  "license": "MIT"
+}
