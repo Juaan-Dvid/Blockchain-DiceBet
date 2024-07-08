@@ -92,7 +92,7 @@ class Contact extends Component {
                                 </Col>
                                 &nbsp;
                                 <h3>Juan David Marín Sánchez</h3>
-                                <h6 >Blockchain Junior author</h6>
+                                <h6 >Blockchain Developer</h6>
                                 &nbsp; &nbsp;
                                 <h4> &nbsp;</h4>
                                 {/* <Container className="text-center">
@@ -118,7 +118,7 @@ class Contact extends Component {
                                             <h5>Do you need a development based on blockchain? contact me on&nbsp;
                                                 <a href='https://linkedin.com/in/juan-david-marin-sanchez-102a92b9'>LinkedIn</a>
                                             </h5>
-                                            <h5>Email: jdmarin123@hotmail.com</h5>
+                                            <h5>Email: juandavidmarin567@gmail.com</h5>
                                         </Col>
                                     </Row>
                                 </Container>
